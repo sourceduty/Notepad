@@ -13,13 +13,6 @@ Notepad is a basic text editing program included with Microsoft Windows, designe
 Sourceduty Notepad is a sophisticated text editor designed to meet the needs of both casual users and professionals across various industries. This tool goes beyond the capabilities of a traditional notepad by offering a wide range of features that enhance productivity and streamline document creation and management.
 
 #
-### Notepad++ Glitch on G15
-
-![Notepad Plus Glitch 200](https://github.com/user-attachments/assets/d9ed315d-5932-4e56-9f4b-e5966f31f770)
-
-Notepad++ can occasionally exhibit glitches when handling files, where content beyond a certain point, such as line 200, may fail to display properly despite the line numbers being visible. This issue might stem from rendering problems, software bugs, or file-specific anomalies causing text to appear blank or missing in certain sections. Such behavior could disrupt workflows, especially when working with extensive code or text files, and may require troubleshooting steps like updating the software, adjusting settings, or verifying the file's integrity to resolve the issue.
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
